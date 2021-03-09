@@ -1,0 +1,29 @@
+.fontSection {
+  height: 100vh;
+
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.fontSection > article {
+  max-width: 768px;
+  width: 80%;
+}
+.fontSection h2 {
+  margin-bottom: 2rem;
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+.fontSection p {
+  margin-bottom: 2rem;
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+.fontSection a {
+  text-decoration: none;
+  color: inherit;
+  margin-bottom: 2rem;
+  font-size: 1rem;
+  font-weight: 700;
+}

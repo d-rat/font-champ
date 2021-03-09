@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+## view the live version [here](https://fontchamp.netlify.app/).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
